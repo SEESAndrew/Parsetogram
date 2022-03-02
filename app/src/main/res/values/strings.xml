@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parsetogram</string>
+    <string name="textview">TextView</string>
+    <string name="login">Login</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com</string>
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">kqBZwluo0wTziZQQILo3dOxJ7p1P2hDF85PREuxC</string>
+    <string name="back4app_client_key">lmCZbUAKkOqSfPnsuTEkp6ZEP5cG9UMkPntMr90J</string>
+</resources>
