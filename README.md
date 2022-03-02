@@ -18,9 +18,11 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 **Basic Functionality**
+
 ![Basic Functionality](Project3Part1.gif)
 
 **Persistence across restarts**
+
 ![Persistence](Project3Part2.gif)
 
 ## Open-source libraries used
