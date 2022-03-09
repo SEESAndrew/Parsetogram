@@ -18,9 +18,11 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 **Basic Functionality**
+
 ![Walkthrough 1](ParstagramPart1.gif)
 
 **Swipe Refresh**
+
 ![Walkthrough 2](ParstagramPart2.gif)
 
 ## Open-source libraries used
