@@ -1,8 +1,32 @@
+
 # Project 3 - **Parsetogram**
 
 **Parsetogram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **3** hours spent in total
+Time spent: **7** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User can view the last 20 posts submitted to "Instagram".
+- [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [x] User can pull to refresh the last 20 posts submitted to "Instagram".
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+**Basic Functionality**
+![Walkthrough 1](ParstagramPart1.gif)
+
+**Swipe Refresh**
+![Walkthrough 2](ParstagramPart2.gif)
+
+## Open-source libraries used
+
+- [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
+- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
 ## User Stories
 
