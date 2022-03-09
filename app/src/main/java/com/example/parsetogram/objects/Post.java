@@ -11,6 +11,7 @@ public class Post extends ParseObject {
     public static final String Description = "description";
     public static final String Image = "image";
     public static final String User = "user";
+    public static final String CreatedAt = "createdAt";
 
     public String getDescription() {
         return getString(Description);
